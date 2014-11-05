@@ -1,0 +1,33 @@
+{
+  "name": "browserify-notify",
+  "version": "0.0.0",
+  "description": "Notification plugin for browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/call-a3/browserify-notify.git"
+  },
+  "keywords": [
+    "browserify",
+    "browserify-plugin",
+    "notification",
+    "node-notifier"
+  ],
+  "author": "Adriaan Callaerts <adriaan.callaerts@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/call-a3/browserify-notify/issues"
+  },
+  "homepage": "https://github.com/call-a3/browserify-notify",
+  "dependencies": {
+    "node-notifier": "^4.0.2"
+  },
+  "devDependencies": {
+    "browserify": "^6.2.0",
+    "tap-spec": "^1.0.1",
+    "tape": "^3.0.1"
+  }
+}
