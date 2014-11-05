@@ -12,7 +12,7 @@ Notification plugin for browserify, sends notifications when a bundle is started
 
 ## Usage
 
-``` bash
+```bash
 browserify -p browserify-notify entry.js > bundle.js
 ```
 
