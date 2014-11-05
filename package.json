@@ -1,6 +1,6 @@
 {
   "name": "browserify-notify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Notification plugin for browserify",
   "main": "index.js",
   "scripts": {
