@@ -9,5 +9,5 @@ deploy:
     secure: c2WJgOHckWhVCOxqhaRZ2Rtu3Z8ykoSRif1B1PiJ8HcpC0TmHTAwGjZiolMzt3zj4Cv2Qyp91w1EIKEo4e69EPsGX22RDWME6bh2nnXzDUIZ6XUi6ylb4iy4fao2Vlg83+SbmiIPg5PZJfnTcpqFw0BvK989vk920zFyk6ZTHWs=
   on:
     tags: true
-    repo: call-a3/browserify-shasum-label
+    repo: call-a3/browserify-notify
     all_branches: true
