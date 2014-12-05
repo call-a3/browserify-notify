@@ -1,5 +1,4 @@
-browserify-notify
-=================
+# browserify-notify
 
 [![Build Status](https://travis-ci.org/call-a3/browserify-notify.svg?branch=master)](https://travis-ci.org/call-a3/browserify-notify)
 [![Dependency Status](https://david-dm.org/call-a3/browserify-notify.svg)](https://david-dm.org/call-a3/browserify-notify) [![devDependency Status](https://david-dm.org/call-a3/browserify-notify/dev-status.svg)](https://david-dm.org/call-a3/browserify-notify#info=devDependencies)
