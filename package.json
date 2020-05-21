@@ -28,6 +28,6 @@
   "devDependencies": {
     "browserify": "^7.0.0",
     "tap-spec": "^2.1.1",
-    "tape": "^3.0.3"
+    "tape": "^5.0.0"
   }
 }
