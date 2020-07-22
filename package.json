@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/call-a3/browserify-notify",
   "dependencies": {
-    "node-notifier": "^4.0.2"
+    "node-notifier": "^7.0.2"
   },
   "devDependencies": {
     "browserify": "^7.0.0",
